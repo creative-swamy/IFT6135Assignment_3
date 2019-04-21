@@ -1,0 +1,5 @@
+To estimate JSD, need to run "JSD_Train21Models.ipynb"
+
+samplers.py : Contains distribution samplers.
+simpleclassdef.py: JSD MLP
+JSD_Final.py : JSD implementation
